@@ -1,0 +1,6 @@
+title=Quarterly Project Report
+quarter=Q1
+status=archived
+owner=Alice
+version=1
+summary=Initial planning and repository setup were completed.
