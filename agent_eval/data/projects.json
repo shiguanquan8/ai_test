@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": "P-001",
+      "name": "Agent Evaluation",
+      "owner": "Alice",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "id": "P-002",
+      "name": "Legacy Migration",
+      "owner": "Bob",
+      "status": "paused",
+      "priority": "low"
+    },
+    {
+      "id": "P-003",
+      "name": "Documentation Refresh",
+      "owner": "David",
+      "status": "planned",
+      "priority": "medium"
+    }
+  ]
+}
