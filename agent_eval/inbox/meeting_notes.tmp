@@ -1,0 +1,8 @@
+Meeting: Agent Evaluation Review
+Date: 2026-07-22
+Status: unreviewed
+
+Notes:
+- Review tool-call accuracy.
+- Check conditional write operations.
+- Confirm that failed writes are not reported as successful.
