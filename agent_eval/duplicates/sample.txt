@@ -1,0 +1,4 @@
+record_type=duplicate_fixture
+record_id=DUP-001
+value=42
+status=active
