@@ -1,0 +1,5 @@
+app_name: github-agent-eval
+environment: development
+log_level: INFO
+timeout: 30
+retry_count: 2
