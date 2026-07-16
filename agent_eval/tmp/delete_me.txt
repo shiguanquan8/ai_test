@@ -1,0 +1,3 @@
+file_purpose=conditional deletion test
+status=temporary
+safe_to_delete=true
