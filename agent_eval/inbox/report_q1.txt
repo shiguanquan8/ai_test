@@ -1,0 +1,6 @@
+title=Quarterly Project Report
+quarter=Q1
+status=draft
+owner=Alice
+version=2
+summary=Development tasks are progressing according to plan.
