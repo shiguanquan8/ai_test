@@ -1,0 +1,5 @@
+app_name: github-agent-eval
+environment: legacy
+log_level: WARNING
+timeout: 60
+status: deprecated
